@@ -1,0 +1,25 @@
+Create Router with two routes. 
+	- Chairs
+		path: '/chairs'
+	- Books
+		path: '/foo/books'
+		
+Implement 3 views each as a separate template
+	- home
+	- chairs
+	- books
+
+Details on the Books view
+	The book view reads from a text input and displays the result text with all vowels removed.
+	
+Details on the Chairs view
+	The chair view allows names of chairs to be added to a list.
+	
+Other details
+	Separate the navbar section from the individual view templates
+	Set the 'active' class on the nav bar item for the template currently viewed.
+		
+**Implement with straight javascript and ember! No use of other frameworks (e.g. don't rig it with JQUERY).**
+		
+
+

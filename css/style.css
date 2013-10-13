@@ -1,0 +1,5 @@
+/* Custom */
+.navbar-inverse .brand, .navbar-inverse .nav>li>a.active {
+	color: white;
+	background: black;
+}
